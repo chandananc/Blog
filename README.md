@@ -1,0 +1,2 @@
+# Blog
+rails guide blog
